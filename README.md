@@ -6,7 +6,7 @@
 
 `$ git commit -m "Text of the commit"`
 
-`$git log`
+`$ git log`
 
 `$ git push origin master`
 
